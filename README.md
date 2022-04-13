@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working as a web dev.
-- 🌱 I’m currently learning Node js.
+- 🌱 Learning Node js.
 - 👯 I’m looking to collaborate on new projects...
 
 
